@@ -11,11 +11,7 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 Thanks for visiting this repository. I'm new doing this but every day I try and I like to keep learning.
