@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/CerealKiller01/intro-section-with-dropdown-navigation.git)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Repo](https://github.com/CerealKiller01/intro-section-with-dropdown-navigation.git)
+- Live Site URL: [Live site URL Vercel](https://intro-section-with-dropdown-navigation-ruddy.vercel.app/)
 
 ## My process
 
